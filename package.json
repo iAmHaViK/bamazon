@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAmHaViK/bamazon.git"
+  },
+  "author": "HaVik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAmHaViK/bamazon/issues"
+  },
+  "homepage": "https://github.com/iAmHaViK/bamazon#readme"
+}
